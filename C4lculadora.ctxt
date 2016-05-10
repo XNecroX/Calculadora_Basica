@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=C4lculadora()
+comment1.params=
+comment1.target=java.lang.String\ getDigito()
+comment10.params=num
+comment10.target=void\ potencia(java.lang.String)
+comment11.params=numero
+comment11.target=double\ producto(java.lang.String)
+comment2.params=digito
+comment2.target=void\ setDigito(java.lang.String)
+comment3.params=num
+comment3.target=void\ agregarNum(int)
+comment4.params=digito
+comment4.target=void\ CE(java.lang.String)
+comment5.params=num
+comment5.target=void\ suma(java.lang.String)
+comment6.params=num
+comment6.target=void\ resta(java.lang.String)
+comment7.params=num
+comment7.target=void\ multiplicacion(java.lang.String)
+comment8.params=num
+comment8.target=void\ divicion(java.lang.String)
+comment9.params=digito
+comment9.target=void\ raiz(java.lang.String)
+numComments=12
